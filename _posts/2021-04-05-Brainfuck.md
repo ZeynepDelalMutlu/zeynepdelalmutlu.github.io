@@ -3,7 +3,7 @@ title: "Brainfuck"
 layout: post
 ---
 
-Brainfuck is the smallest software language. It has the smallest compiler.[1]
+Brainfuck is the smallest software language. It has the smallest compiler.
 
 - [ - ] is the smallest program which can be written in this language.
 - ASCII Table is used for the character mapping.
@@ -79,8 +79,8 @@ Brainfuck is the smallest software language. It has the smallest compiler.[1]
 ```
 
 ## References
-https://en.wikipedia.org/wiki/Brainfuck
-https://www.jdoodle.com/execute-brainfuck-online/
+[https://en.wikipedia.org/wiki/Brainfuck]https://en.wikipedia.org/wiki/Brainfuck
+[https://www.jdoodle.com/execute-brainfuck-online/]https://www.jdoodle.com/execute-brainfuck-online/
 
 
    [online compiler]: <https://www.jdoodle.com/execute-brainfuck-online/>
