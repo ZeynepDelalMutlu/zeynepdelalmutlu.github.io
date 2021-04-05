@@ -1,5 +1,4 @@
-# Brainf\*ck (Mindf\*ck)
-## The Smallest Software Language 
+- The Smallest Software Language 
 - Brainfuck is a software language which has the smallest compiler.
 - [ - ] is the smallest program which can be written in this language.
 - ASCII Table is used for the character mapping.
