@@ -10,7 +10,6 @@ Brainfuck is the smallest software language. It has the smallest compiler.
 - Basically it has 8 program instructions as the following:
 
 
-
 # Instructions of Brainfuck
 
 | Brainfuck Command | C equivalent |
@@ -85,4 +84,3 @@ Brainfuck is the smallest software language. It has the smallest compiler.
 [1]: https://en.wikipedia.org/wiki/Brainfuck
 [2]: https://www.jdoodle.com/execute-brainfuck-online/
 [online compiler]: <https://www.jdoodle.com/execute-brainfuck-online/>
-  
