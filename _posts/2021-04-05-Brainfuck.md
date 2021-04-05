@@ -79,8 +79,8 @@ Brainfuck is the smallest software language. It has the smallest compiler.
 ```
 
 ## References
-[https://en.wikipedia.org/wiki/Brainfuck]https://en.wikipedia.org/wiki/Brainfuck
-[https://www.jdoodle.com/execute-brainfuck-online/]https://www.jdoodle.com/execute-brainfuck-online/
+[https://en.wikipedia.org/wiki/Brainfuck][https://en.wikipedia.org/wiki/Brainfuck]
+[https://www.jdoodle.com/execute-brainfuck-online/][https://www.jdoodle.com/execute-brainfuck-online/]
 
 
    [online compiler]: <https://www.jdoodle.com/execute-brainfuck-online/>
