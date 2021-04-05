@@ -3,7 +3,7 @@ title: "Brainfuck(Mindfuck)"
 layout: post
 ---
 
-Brainfuck is the smallest software language. It has the smallest compiler.
+Brainfuck is the smallest software language. It has the smallest compiler.[1]
 
 
 - [ - ] is the smallest program which can be written in this language.
