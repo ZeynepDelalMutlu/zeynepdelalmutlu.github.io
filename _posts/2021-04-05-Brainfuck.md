@@ -1,5 +1,5 @@
 ---
-title: "Brainfuck(Mindfuck)"
+title: "Brainfuck"
 layout: post
 ---
 
