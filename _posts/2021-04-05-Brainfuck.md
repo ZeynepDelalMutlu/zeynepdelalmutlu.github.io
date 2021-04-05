@@ -11,7 +11,7 @@ Brainfuck is the smallest software language. It has the smallest compiler.[1]
 
 
 
-## Instructions of Brainfuck
+# Instructions of Brainfuck
 
 | Brainfuck Command | C equivalent |
 | ------ | ------ |
@@ -25,7 +25,7 @@ Brainfuck is the smallest software language. It has the smallest compiler.[1]
 | [ | while (*ptr) { |
 | ] | } |
 
-## A Sample Program
+# A Sample Program
 > Note: Any [online compiler] can be used to execute.
 
 ```sh
