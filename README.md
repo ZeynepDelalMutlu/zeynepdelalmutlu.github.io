@@ -5,7 +5,6 @@ layout: page
 ---
 
 
-# About Me
 
 Hi everyone,
 
