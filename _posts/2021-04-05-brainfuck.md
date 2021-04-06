@@ -9,8 +9,8 @@ layout: post
 - ASCII Table is used for the character mapping.
 
 Basically it has 8 program instructions as the following:
+<!--more-->
 
-<!-read more->
 ## Instructions of Brainfuck
 
 | Brainfuck Command | C equivalent |
