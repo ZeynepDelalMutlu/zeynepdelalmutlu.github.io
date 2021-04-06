@@ -10,7 +10,7 @@ layout: post
 
 Basically it has 8 program instructions as the following:
 
-<!--read more-->
+<!-read more->
 ## Instructions of Brainfuck
 
 | Brainfuck Command | C equivalent |
