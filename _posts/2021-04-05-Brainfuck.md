@@ -12,9 +12,9 @@ layout: post
   
 ## Instructions of Brainfuck
 
-| Brainfuck Command | C equivalent |
-| ------ | ------ |
-| (Program Start) | char array[30000] = {0}; char *ptr = &array[0]; |
+/ Brainfuck Command / C equivalent /
+/ ------ / ------ /
+/ (Program Start) / char array[30000] = {0}; char *ptr = &array[0]; |
 | > | ++ptr; |
 | < | --ptr; |
 | + | ++*ptr; |
