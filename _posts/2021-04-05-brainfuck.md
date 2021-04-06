@@ -3,7 +3,7 @@ title:  "Brainfuck"
 layout: post
 ---
 
-Brainfuck is the smallest software language. It has the smallest compiler.
+Brainfuck has the smallest compiler among all other software languages. That is why it is known as the smallest software language in the world(for now :).
 
 - [ - ] is the smallest program which can be written in this language.
 - ASCII Table is used for the character mapping.
