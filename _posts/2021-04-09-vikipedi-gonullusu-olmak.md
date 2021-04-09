@@ -17,10 +17,14 @@ Tüm kullanıcıların sisteme istediği şekilde katkı sağlayabilmesi, birço
 Buradan yola çıkarak Wikipedia’ya Türkçe katkıda bulunmak isteyenler için 2003 yılında Türkçe Vikipedi sayfası oluşturulmuş[[3]][vikipedi]. Türkçe Vikipedi sayfasında şimdiye kadar 398.026 adet içeriğin yayınlandığı bilinmektedir[[4]][wiki-anasayfa].
 
 ## Dünyadan ve Türkiye’den İstatistikler
-Wikipedia’da şimdiye kadar 78 milyon civarında insan yazarlık yapmıştır[[5]][wiki-authors]Aktif yazarlık yapanların sayısı ise aylık 300 bin civarında. 
-https://en.wikipedia.org/wiki/Main_Page Online bir platforma olabildiğince formal bilgi sağlamayı amaçlayan insan sayısı için oldukça iyi sayılar olduğunu söylememiz yanlış olmaz.
+Wikipedia’da şimdiye kadar 78 milyon civarında insan yazarlık yapmıştır[[5]][wiki-authors]. Aktif yazarlık yapanların sayısı ise aylık 300 bin civarında[[6]][wiki-main]. Online bir platformda olabildiğince formal bilgi sağlamayı amaçlayan insan sayısı için oldukça iyi sayılar olduğunu söylememiz yanlış olmaz.
 
-Yazarlar içerisinde sadece konuyla ilgili merakı olan insanların değil, aynı zamanda konuyla doğrudan ilgili olan çok sayıda akademisyen, öğrenci ve profesyonelin de yer aldığı biliniyor.
+Yazarlar içerisinde çok sayıda akademisyen, öğrenci ve profesyonelin de yer aldığı biliniyor.Hatta İngilizce Wikipedia altında bir çok bilim dalının akademik projesi de hayata geçirilmiş. Bu projesilerin hedefleri, bazı bilim alanlarında yapılan akademik çalışmaları desteklemek ve katkıda bulunmak.  
+İngilizce Wikipedia'nın bazı akademik çalışma grupları:  
+- [WikiProject Bilgisayar Bilimi][wikiproject_computer_science]  
+- [WikiProject Tıp][wikiproject_tıp]  
+- [WikiProject Matematik][wikiproject_mathematics]  
+- [WikiProject Fizik][wikiproject_physics]  
 
 İngilizce Wikipedia dünyada en çok içerik sağlanan platform. Türkçe Vikipedi ile bazı bilgileri kıyaslayacak olursak;
 
@@ -62,9 +66,15 @@ Faydalı olmak dileğiyle:)
 [https://tr.wikipedia.org/wiki/Vikipedi:Hakk%C4%B1nda][vikipedi]  
 [https://tr.wikipedia.org/wiki/Anasayfa][wiki-anasayfa]  
 [https://en.wikipedia.org/wiki/Wikipedia:Authors_of_Wikipedia][wiki-authors]
+[https://en.wikipedia.org/wiki/Main_Page][wiki-main] 
 
 [encyclopedias]: https://www.similarweb.com/top-websites/category/reference-materials/dictionaries-and-encyclopedias/
 [top-websites]: https://www.similarweb.com/top-websites/
 [vikipedi]: https://tr.wikipedia.org/wiki/Vikipedi:Hakk%C4%B1nda
 [wiki-anasayfa]: https://tr.wikipedia.org/wiki/Anasayfa
-[wiki-authors]: https://en.wikipedia.org/wiki/Wikipedia:Authors_of_Wikipedia 
+[wiki-authors]: https://en.wikipedia.org/wiki/Wikipedia:Authors_of_Wikipedia  
+[wiki-main]: https://en.wikipedia.org/wiki/Main_Page
+[wikiproject_computer_science]: https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Computer_science
+[wikiproject_tıp]: https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Medicine
+[wikiproject_mathematics]: https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Mathematics
+[wikiproject_physics]: https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Physics
