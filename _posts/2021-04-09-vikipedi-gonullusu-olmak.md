@@ -34,7 +34,7 @@ Yazarlar içerisinde çok sayıda akademisyen, öğrenci ve profesyonelin de yer
 | İçerik Sayısı | 6,283,715 | 398,026 |
 | Son 30 günde aktif olarak katkı sağlayan kullanıcı sayısı | 142,081 | 3,401 |
 
-> Note: Tüm dillerin verilerini ayrıntılı şekilde incelemek isterseniz Wikipedia’nın ana sayfası üzerinde istediğiniz dildeki Wikipedia sayfasına erişebilirsiniz[[5]][wiki-authors][wikipedia].
+> Note: Tüm dillerin verilerini ayrıntılı şekilde incelemek isterseniz Wikipedia’nın ana sayfası üzerinde istediğiniz dildeki Wikipedia sayfasına erişebilirsiniz[[5]][wikipedia].
 
 Burada dikkat etmemiz gereken Türkçe içerik ve İngilizce içerik sayıları arasındaki fark. Sırf bu iki dil arasında bile milyonlarca çevirisi yapılmamış içerik olduğunu görmekteyiz. Kaldı ki diğer dillerde yapılan içerikleri de düşündüğümüzde bu sayı daha da artıyor. Bu da demek oluyor ki, sadece Türkçe bilen bir insanın dünyanın en çok tercih edilen sitelerinden birindeki bilgilerin büyük bir çoğunluğuna erişmesi ne yazık ki mümkün değil.
 
