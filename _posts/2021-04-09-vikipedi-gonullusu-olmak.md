@@ -21,7 +21,7 @@ Buradan yola çıkarak Wikipedia’ya Türkçe katkıda bulunmak isteyenler içi
 ## Dünyadan ve Türkiye’den İstatistikler
 Wikipedia’da şimdiye kadar 78 milyon civarında insan yazarlık yapmıştır[[5]][wiki-authors]. Aktif yazarlık yapanların sayısı ise aylık 300 bin civarında[[6]][wiki-main]. Online bir platformda olabildiğince formal bilgi sağlamayı amaçlayan insan sayısı için oldukça iyi sayılar olduğunu söylememiz yanlış olmaz.
 
-Yazarlar içerisinde çok sayıda akademisyen, öğrenci ve profesyonelin de yer aldığı biliniyor.Hatta İngilizce Wikipedia altında bir çok bilim dalının akademik projesi de hayata geçirilmiş. Bu projesilerin hedefleri, bazı bilim alanlarında yapılan akademik çalışmaları desteklemek ve katkıda bulunmak.  
+Yazarlar içerisinde çok sayıda akademisyen, öğrenci ve profesyonelin de yer aldığı biliniyor.Hatta İngilizce Wikipedia altında birçok bilim dalının akademik projesi de hayata geçirilmiş. Bu projesilerin hedefleri, bazı bilim alanlarında yapılan akademik çalışmaları desteklemek ve katkıda bulunmak.  
 İngilizce Wikipedia'nın bazı akademik çalışma grupları:  
 - [WikiProject Bilgisayar Bilimi][wikiproject_computer_science]  
 - [WikiProject Tıp][wikiproject_tıp]  
