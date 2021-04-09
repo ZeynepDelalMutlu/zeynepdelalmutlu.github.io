@@ -57,11 +57,11 @@ Faydalı olmak dileğiyle:)
 
 
 ## References
-[https://www.similarweb.com/top-websites/category/reference-materials/dictionaries-and-encyclopedias][1]  
-[https://www.similarweb.com/top-websites][2]  
-[https://tr.wikipedia.org/wiki/Vikipedi:Hakk%C4%B1nda][3]  
-[https://tr.wikipedia.org/wiki/Anasayfa][4]  
-[https://en.wikipedia.org/wiki/Wikipedia:Authors_of_Wikipedia][5]  
+[https://www.similarweb.com/top-websites/category/reference-materials/dictionaries-and-encyclopedias][encyclopedias]  
+[https://www.similarweb.com/top-websites][top-websites]  
+[https://tr.wikipedia.org/wiki/Vikipedi:Hakk%C4%B1nda][vikipedi]  
+[https://tr.wikipedia.org/wiki/Anasayfa][wiki-anasayfa]  
+[https://en.wikipedia.org/wiki/Wikipedia:Authors_of_Wikipedia][wiki-authors]  
 
 [encyclopedias]: https://www.similarweb.com/top-websites/category/reference-materials/dictionaries-and-encyclopedias/
 [top-websites]: https://www.similarweb.com/top-websites/
