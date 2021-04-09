@@ -57,7 +57,7 @@ Faydalı olmak dileğiyle:)
 
 
 ## References
-[https://www.similarweb.com/top-websites/category/reference-materials/dictionaries-and-encyclopedias/][1]
+[https://www.similarweb.com/top-websites/category/reference-materials/dictionaries-and-encyclopedias/][1]  
 [https://www.similarweb.com/top-websites/][2]  
 [https://tr.wikipedia.org/wiki/Vikipedi:Hakk%C4%B1nda/][3]  
 [https://tr.wikipedia.org/wiki/Anasayfa/][4]  
@@ -68,8 +68,3 @@ Faydalı olmak dileğiyle:)
 [vikipedi]: https://tr.wikipedia.org/wiki/Vikipedi:Hakk%C4%B1nda
 [wiki-anasayfa]: https://tr.wikipedia.org/wiki/Anasayfa
 [wiki-authors]: https://en.wikipedia.org/wiki/Wikipedia:Authors_of_Wikipedia 
-
-
-[1]: https://en.wikipedia.org/wiki/Brainfuck
-[2]: https://www.jdoodle.com/execute-brainfuck-online/
-[online compiler]: <https://www.jdoodle.com/execute-brainfuck-online/>
