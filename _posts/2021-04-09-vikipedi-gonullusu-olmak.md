@@ -61,7 +61,7 @@ Faydalı olmak dileğiyle:)
 [https://www.similarweb.com/top-websites][top-websites]  
 [https://tr.wikipedia.org/wiki/Vikipedi:Hakk%C4%B1nda][vikipedi]  
 [https://tr.wikipedia.org/wiki/Anasayfa][wiki-anasayfa]  
-[https://en.wikipedia.org/wiki/Wikipedia:Authors_of_Wikipedia][wiki-authors]  
+[https://en.wikipedia.org/wiki/Wikipedia:Authors_of_Wikipedia][wiki-authors]
 
 [encyclopedias]: https://www.similarweb.com/top-websites/category/reference-materials/dictionaries-and-encyclopedias/
 [top-websites]: https://www.similarweb.com/top-websites/
