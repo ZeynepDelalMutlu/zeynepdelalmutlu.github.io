@@ -30,15 +30,16 @@ Yazarlar içerisinde çok sayıda akademisyen, öğrenci ve profesyonelin de yer
 
 |  | İngilizce Wikipedia | Türkçe Vikipedi |
 | ------ | ------ | ------ |
-| Kayıtlı Kullanıcı Sayısı | 41,308,198 | 1.287.358 |
-| İçerik Sayısı | 6,283,715 | 398.026 |
-| Son 30 günde aktif olarak katkı sağlayan kullanıcı sayısı | 142,081 | 3.401 |
+| Kayıtlı Kullanıcı Sayısı | 41,308,198 | 1,287,358 |
+| İçerik Sayısı | 6,283,715 | 398,026 |
+| Son 30 günde aktif olarak katkı sağlayan kullanıcı sayısı | 142,081 | 3,401 |
 
-Tüm dillerin verilerini ayrıntılı şekilde incelemek isterseniz Wikipedia’nın ana sayfası üzerinde istediğiniz dildeki Wikipedia sayfasına erişebilirsiniz. https://www.wikipedia.org/
-Burada dikkat etmemiz gereken Türkçe içerik ve İngilizce içerik arasındaki sayısal fark. Sırf bu iki dil arasında bile milyonlarca çevirisi yapılmamış içerik olduğunu görmekteyiz. Kaldı ki diğer dillerde yapılan içerikleri de düşündüğümüzde bu sayı daha da artıyor. Bu da demek oluyor ki, sadece Türkçe bilen bir insanın dünyada en çok tercih edilen popüler bir sitedeki bilgilerin büyük bir çoğunluğuna erişmesi ne yazık ki mümkün değil.
+> Note: Tüm dillerin verilerini ayrıntılı şekilde incelemek isterseniz Wikipedia’nın ana sayfası üzerinde istediğiniz dildeki Wikipedia sayfasına erişebilirsiniz[[5]][wiki-authors][wikipedia].
+
+Burada dikkat etmemiz gereken Türkçe içerik ve İngilizce içerik sayıları arasındaki fark. Sırf bu iki dil arasında bile milyonlarca çevirisi yapılmamış içerik olduğunu görmekteyiz. Kaldı ki diğer dillerde yapılan içerikleri de düşündüğümüzde bu sayı daha da artıyor. Bu da demek oluyor ki, sadece Türkçe bilen bir insanın dünyanın en çok tercih edilen sitelerinden birindeki bilgilerin büyük bir çoğunluğuna erişmesi ne yazık ki mümkün değil.
 
 ## Peki Türkçe Vikipedi İçin Ne Yapabiliriz?
-Dünyanın farklı ülkelerinde farklı dillerde yazılan bilgiler, takdir edersiniz ki o dili bilmediğimiz zaman bize pek de fayda sağlamıyor. İçeriği okuyamıyorsak o bilgi ‘bizim için’ bir bilgi midir, tartışılır. Buradaki hassasiyet kişilerin dil bilmiyor olması değil; Bilişim Çağı’(https://tr.wikipedia.org/wiki/Bili%C5%9Fim_%C3%87a%C4%9F%C4%B1 )nda bile bir kişinin bilgiye ulaşmakta yetersiz kalıyor olmasıdır.
+Dünyanın farklı ülkelerinde farklı dillerde yazılan bilgiler, takdir edersiniz ki o dili bilmediğimiz zaman bize pek de fayda sağlamıyor. İçeriği okuyamıyorsak o bilgi ‘bizim için’ bir bilgi midir, tartışılır. Buradaki dikkat çekmek istediğim nokta kişilerin dil bilmiyor olması değil; günümüz Bilgi Çağı’nda[[8]][bilisim_cagi] bile hala bir insanın bilgiye ulaşmakta yetersiz kalabiliyor olmasıdır.
 
 Bu problemin önüne geçmek için ise gönüllüler uzun zamandır canla başla çalışıyor. Dünyanın birçok yerinden gönüllü insanlar, Wikipedia içeriklerini ücretsiz şekilde çevirerek insanlığa olabildiğince yardım etmeye çalışıyorlar.
 
@@ -70,7 +71,9 @@ Faydalı olmak dileğiyle:)
 [[3]https://tr.wikipedia.org/wiki/Vikipedi:Hakk%C4%B1nda][vikipedi]  
 [[4]https://tr.wikipedia.org/wiki/Anasayfa][wiki-anasayfa]  
 [[5]https://en.wikipedia.org/wiki/Wikipedia:Authors_of_Wikipedia][wiki-authors]
-[[6]https://en.wikipedia.org/wiki/Main_Page][wiki-main] 
+[[6]https://en.wikipedia.org/wiki/Main_Page][wiki-main]  
+[[7]https://www.wikipedia.org/][wikipedia]
+[[8]https://tr.wikipedia.org/wiki/Bili%C5%9Fim_%C3%87a%C4%9F%C4%B1][bilisim_cagi]
 
 [encyclopedias]: https://www.similarweb.com/top-websites/category/reference-materials/dictionaries-and-encyclopedias/
 [top-websites]: https://www.similarweb.com/top-websites/
@@ -82,3 +85,5 @@ Faydalı olmak dileğiyle:)
 [wikiproject_tıp]: https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Medicine
 [wikiproject_mathematics]: https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Mathematics
 [wikiproject_physics]: https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Physics
+[wikipedia]: https://www.wikipedia.org/
+[bilisim_cagi]: https://tr.wikipedia.org/wiki/Bili%C5%9Fim_%C3%87a%C4%9F%C4%B1
