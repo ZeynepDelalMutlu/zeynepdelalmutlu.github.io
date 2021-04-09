@@ -12,7 +12,7 @@ Wikipedia'nın en büyük özelliği, herhangi bir konuda yazılan bilgilerin ve
 
 ## Neden Türkçe Vikipedi?
 
-Tüm kullanıcıların sisteme istediği şekilde katkı sağlayabilmesi, birçok farklı dilde bilgi paylaşımını da beraberinde getirmiş. Ancak bir dilde yayınlanan içerik, diğer dillerde de yayınlanmak zorunda değil. O yüzden herkes kendi dilinde içeriğini oluştururken, diğer dilleri kullanan insanlar bu içerikten mahrum kalıyor. Dilden kaynaklanan bu içerik dengesizliğini önlemek için, her dil Wikipedia'ya bağlı kendi alt platformunu oluşturmuş.
+Tüm kullanıcıların sisteme istediği şekilde katkı sağlayabilmesi, birçok farklı dilde bilgi paylaşımını da beraberinde getirmiş. Ancak bir dilde yayınlanan içerik, diğer dillerde de yayınlanmak zorunda değil. O yüzden herkes kendi dilinde içeriğini oluştururken, diğer dilleri kullanan insanlar bu içerikten mahrum kalıyor. Dilden kaynaklanan bu içerik dengesizliğini önlemek için, her dil Wikipedia'ya bağlı kendi alt platformunu oluşturmuş. Her dil platformu, başka dillerdeki makaleleri kendi diline çevirerek bu dengesizliği önlemeyi amaçlamıştır.
 
 Buradan yola çıkarak Wikipedia’ya Türkçe katkıda bulunmak isteyenler için 2003 yılında Türkçe Vikipedi sayfası oluşturulmuş[[3]][vikipedi]. Türkçe Vikipedi sayfasında şimdiye kadar 398.026 adet içeriğin yayınlandığı bilinmektedir[[4]][wiki-anasayfa].
 
