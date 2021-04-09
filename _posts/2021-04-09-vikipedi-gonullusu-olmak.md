@@ -1,5 +1,5 @@
 ---
-title:  "Vikipedi Gönüllüsü Olmak"
+title:  "Vikipedi Gönüllüsü Olmak: Çevirsen Yeter:)"
 layout: post
 ---
 
@@ -10,11 +10,13 @@ Yeni karşılaştığımız bir konsepti öğrenmek için internette ilk uğrad�
 
 Wikipedia'nın en büyük özelliği, herhangi bir konuda yazılan bilgilerin ve makalelerin herkes tarafından erişilebilir ve değiştirilebilir olmasıdır. Bunun hem iyi hem de kötü tarafları var. Doğru bilgi herkes tarafından yanıltılabilir ya da yanlış bilgi herkes tarafından düzeltilebilir. Ancak şunu unutmamak lazım ki aynı platforma yüzlerce hatta binlerce kişi müdahale ediyor. Yani yanlış bilgiyi düzeltmeye istekli olan çok fazla insan var ve bu insanların bir çoğu organize olmuş durumda:) Ayrıca kötü niyetli müdahaleleri kontrol eden bir Vikipedi yönetimi de mevcut. Özellikle vandallıkla mücadele etmek için ciddi şekilde efor harcıyorlar. Bu yüzden site içeriği günden güne iyi yönde ilerliyor dememiz hiç yanlış olmaz.
 
+
 ## Neden Türkçe Vikipedi?
 
 Tüm kullanıcıların sisteme istediği şekilde katkı sağlayabilmesi, birçok farklı dilde bilgi paylaşımını da beraberinde getirmiş. Ancak bir dilde yayınlanan içerik, diğer dillerde de yayınlanmak zorunda değil. O yüzden herkes kendi dilinde içeriğini oluştururken, diğer dilleri kullanan insanlar bu içerikten mahrum kalıyor. Dilden kaynaklanan bu içerik dengesizliğini önlemek için, her dil Wikipedia'ya bağlı kendi alt platformunu oluşturmuş. Her dil platformu, başka dillerdeki makaleleri kendi diline çevirerek bu dengesizliği önlemeyi amaçlamıştır.
 
 Buradan yola çıkarak Wikipedia’ya Türkçe katkıda bulunmak isteyenler için 2003 yılında Türkçe Vikipedi sayfası oluşturulmuş[[3]][vikipedi]. Türkçe Vikipedi sayfasında şimdiye kadar 398.026 adet içeriğin yayınlandığı bilinmektedir[[4]][wiki-anasayfa].
+
 
 ## Dünyadan ve Türkiye’den İstatistikler
 Wikipedia’da şimdiye kadar 78 milyon civarında insan yazarlık yapmıştır[[5]][wiki-authors]. Aktif yazarlık yapanların sayısı ise aylık 300 bin civarında[[6]][wiki-main]. Online bir platformda olabildiğince formal bilgi sağlamayı amaçlayan insan sayısı için oldukça iyi sayılar olduğunu söylememiz yanlış olmaz.
@@ -38,29 +40,35 @@ Yazarlar içerisinde çok sayıda akademisyen, öğrenci ve profesyonelin de yer
 
 Burada dikkat etmemiz gereken Türkçe içerik ve İngilizce içerik sayıları arasındaki fark. Sırf bu iki dil arasında bile milyonlarca çevirisi yapılmamış içerik olduğunu görmekteyiz. Kaldı ki diğer dillerde yapılan içerikleri de düşündüğümüzde bu sayı daha da artıyor. Bu da demek oluyor ki, sadece Türkçe bilen bir insanın dünyanın en çok tercih edilen sitelerinden birindeki bilgilerin büyük bir çoğunluğuna erişmesi ne yazık ki mümkün değil.
 
+
 ## Peki Türkçe Vikipedi İçin Ne Yapabiliriz?
 Dünyanın farklı ülkelerinde farklı dillerde yazılan bilgiler, takdir edersiniz ki o dili bilmediğimiz zaman bize pek de fayda sağlamıyor. İçeriği okuyamıyorsak o bilgi ‘bizim için’ bir bilgi midir, tartışılır. Buradaki dikkat çekmek istediğim nokta kişilerin dil bilmiyor olması değil; günümüz Bilgi Çağı’nda[[8]][bilisim_cagi] bile hala bir insanın bilgiye ulaşmakta yetersiz kalabiliyor olmasıdır.
 
 Bu problemin önüne geçmek için ise gönüllüler uzun zamandır canla başla çalışıyor. Dünyanın birçok yerinden gönüllü insanlar, Wikipedia içeriklerini ücretsiz şekilde başka dillere çevirerek insanlığa olabildiğince yardım etmeye çalışıyorlar.
 
-Bu yazıyı Türkçe yazmamdaki en büyük sebep, özellikle Türkçe içeriğe katkı sağlayabilecek insanlara ulaşmak istememdir. Vikipedi ya da hangi dilde olursa olsun Wikipedia gibi bir topluluğa yardım etmek, elden geliyorsa yeni içerikler hazırlamak; elden gelmiyorsa çevirilere katkıda bulunmak ya da topluluktaki size uygun görevleri üstlenmek her zaman hem kendiniz hem insanlık için fayda sağlayacak bir eylemdir. Özellikle Türkçe dışında ikinci bir dil biliyorsanız ve o dili bilmeyen ancak kendini geliştirmek isteyen insanlara yardım etmek istiyorsanız Vikipedi bunun için harika bir fırsat. Türkçe çevirisi olmayan yazıları çevirebilirsiniz. Ve bunu tek başınıza yapmak zorunda kesinlikle değilsiniz:). Çeviri yapan bir Vikipedi 'Çeviri Grubu' var[[9]][ceviri_grubu]. 
-Buradan çeviri ihtiyacı duyulan makalelere katkı sağlayabilir, haftalık çevirilere yardım edebilirsiniz. Ayrıca çevirisine ihtiyaç duyduğunuz bir çeviriyi de yine buradan istek yapabilirsiniz. Yaptığınız çeviriyi hemen bitirmek zorunda değilsiniz. Kaydedip çıkabilir, daha sonra devam edebilirsiniz. Zaten tüm yazıyı çevirirken, Vikipedi’nin size sağladığı gelişmiş çeviri aracını da kullanabilirsiniz ki ben çok faydasını gördüm. Kesinlikle tavsiye ediyorum.
+Bu yazıyı Türkçe yazmamdaki en büyük sebep, özellikle Türkçe içeriğe katkı sağlayabilecek insanlara ulaşmak istememdir. Vikipedi ya da hangi dilde olursa olsun Wikipedia gibi bir topluluğa yardım etmek, elden geliyorsa yeni içerikler hazırlamak; elden gelmiyorsa çevirilere katkıda bulunmak ya da topluluktaki size uygun görevleri üstlenmek her zaman hem kendiniz hem insanlık için fayda sağlayacak bir eylemdir. Özellikle Türkçe dışında ikinci bir dil biliyorsanız ve o dili bilmeyen ancak kendini geliştirmek isteyen insanlara yardım etmek istiyorsanız Vikipedi bunun için harika bir fırsat. Türkçe çevirisi olmayan yazıları çevirebilirsiniz. Ve bunu tek başınıza yapmak zorunda kesinlikle değilsiniz:).
 
-O yüzden diyorum ki yabancı dil bilginiz varsa lütfen buna ihtiyacı olabilecek, bir kelime bile olsa bir şey öğrendiğinde 
+Çeviri yapan bir Vikipedi 'Çeviri Grubu' var[[9]][ceviri_grubu]. Burada çeviri ihtiyacı duyulan makalelere katkı sağlayabilir, haftalık çevirilere yardım edebilirsiniz. Ayrıca çevirisine ihtiyaç duyduğunuz bir makaleyi de yine buradan istek yapabilirsiniz. Yaptığınız çeviriyi hemen bitirmek zorunda değilsiniz. Kaydedip çıkabilir, daha sonra devam edebilirsiniz. Zaten tüm yazıyı çevirirken, Vikipedi’nin size sağladığı gelişmiş çeviri aracını da kullanabilirsiniz; ki ben çok faydasını gördüm. Kesinlikle tavsiye ediyorum.
+
 
 ## Kendi İlgi Alanımdan Öneriler
 Zamanında hangi konuları çevirsem diye kendi ilgi duyduğum konularla ilgili küçük bir araştırma yapmıştım. Son kararımı “Siber-Fiziksel Sistemler” başlığı olarak verdim ve İngilizce’den Türkçe’ye bir çeviri yaptım. Tabii ki benim çevirim üzerine birçok gönüllü, düzeltmeler yapmaya devam etmiş. Herkesin eline sağlık:)
 
-Aşağıdaki iki içeriğin Türkçe çevirisi yok, dileyen vakti olduğunda katkı sağlamak isterse diye linklerini bırakıyorum;
+Aşağıdaki iki içeriğin Türkçe çevirisi yok, dileyen katkı sağlamak isterse diye linkleri bırakıyorum;
 - https://en.wikipedia.org/wiki/Principle_of_least_privilege  
 - https://en.wikipedia.org/wiki/Capability-based_security
 
-Bunlar gibi çeviri bekleyen binlerce madde olduğunu unutmayalım:)
+Bunlar gibi çeviri bekleyen binlerce hatta milyonlarca madde olduğunu unutmayalım:)
 
 Uzun lafın kısası;
-Toplumsal( https://kelimeler.gen.tr/toplum-nedir-ne-demek-306018 ) fayda sağlayan her eylem hem yaşam standardımızı yükseltmek için ileriye dönük bir yatırım hem de insanlığa sunabileceğimiz en büyük katkılardan bir ttanesidir. Vikipedi'ye içerik ve çeriviri katkısı sağlamak bunun için harika bir fırsat.
+Toplumsal( https://kelimeler.gen.tr/toplum-nedir-ne-demek-306018 ) fayda sağlayan her eylem hem yaşam standardımızı yükseltmek için ileriye dönük bir yatırım hem de insanlığa sunabileceğimiz en büyük katkılardan bir tanesidir. Vikipedi'ye içerik ve çeriviri katkısı sağlamak bunun için harika bir fırsat.
 
-Faydalı olmak dileğiyle:)
+Makale yazmaya gerek yok,
+
+Bi' çevirsen yeter:)
+
+
+Faydalı olmak dileğiyle,
 
 
 ## References
