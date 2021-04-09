@@ -55,17 +55,17 @@ Bu yazıyı Türkçe yazmamdaki en büyük sebep, özellikle Türkçe içeriğe 
 Zamanında hangi konuları çevirsem diye kendi ilgi duyduğum konularla ilgili küçük bir araştırma yapmıştım. Son kararımı “Siber-Fiziksel Sistemler” başlığı olarak verdim ve İngilizce’den Türkçe’ye bir çeviri yaptım. Tabii ki benim çevirim üzerine birçok gönüllü, düzeltmeler yapmaya devam etmiş. Herkesin eline sağlık:)
 
 Aşağıdaki iki içeriğin Türkçe çevirisi yok, dileyen katkı sağlamak isterse diye linkleri bırakıyorum;
-- https://en.wikipedia.org/wiki/Principle_of_least_privilege  
-- https://en.wikipedia.org/wiki/Capability-based_security
+- [https://en.wikipedia.org/wiki/Principle_of_least_privilege][principle_of_least_privilege]  
+- [https://en.wikipedia.org/wiki/Capability-based_security][capability-based_security]
 
 Bunlar gibi çeviri bekleyen binlerce hatta milyonlarca madde olduğunu unutmayalım:)
 
 Uzun lafın kısası;
-Toplumsal( https://kelimeler.gen.tr/toplum-nedir-ne-demek-306018 ) fayda sağlayan her eylem hem yaşam standardımızı yükseltmek için ileriye dönük bir yatırım hem de insanlığa sunabileceğimiz en büyük katkılardan bir tanesidir. Vikipedi'ye içerik ve çeriviri katkısı sağlamak bunun için harika bir fırsat.
+Toplumsal fayda sağlayan her eylem hem yaşam standardımızı yükseltmek için ileriye dönük bir yatırım hem de insanlığa sunabileceğimiz en büyük katkılardan bir tanesidir. Vikipedi'ye içerik ve özellikle çeriviri katkısı sağlamak bunun için harika bir fırsat.
 
 Makale yazmaya gerek yok,
 
-Bi' çevirsen yeter:)
+Bi' çevirsen yeter;)
 
 
 Faydalı olmak dileğiyle,
@@ -95,3 +95,5 @@ Faydalı olmak dileğiyle,
 [wikipedia]: https://www.wikipedia.org/
 [bilisim_cagi]: https://tr.wikipedia.org/wiki/Bili%C5%9Fim_%C3%87a%C4%9F%C4%B1
 [ceviri_grubu]: https://tr.wikipedia.org/wiki/Vikipedi:%C3%87eviri_grubu
+[principle_of_least_privilege]: https://en.wikipedia.org/wiki/Principle_of_least_privilege][principle_of_least_privilege  
+[capability-based_security]: https://en.wikipedia.org/wiki/Capability-based_security][capability-based_security
