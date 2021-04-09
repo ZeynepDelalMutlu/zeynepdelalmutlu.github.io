@@ -34,7 +34,7 @@ Yazarlar içerisinde çok sayıda akademisyen, öğrenci ve profesyonelin de yer
 | İçerik Sayısı | 6,283,715 | 398,026 |
 | Son 30 günde aktif olarak katkı sağlayan kullanıcı sayısı | 142,081 | 3,401 |
 
-> Note: Tüm dillerin verilerini ayrıntılı şekilde incelemek isterseniz Wikipedia’nın ana sayfası üzerinde istediğiniz dildeki Wikipedia sayfasına erişebilirsiniz[[5]][wikipedia].
+> Note: Tüm dillerin verilerini ayrıntılı şekilde incelemek isterseniz Wikipedia’nın ana sayfası üzerinde istediğiniz dildeki Wikipedia sayfasına erişebilirsiniz[[7]][wikipedia].
 
 Burada dikkat etmemiz gereken Türkçe içerik ve İngilizce içerik sayıları arasındaki fark. Sırf bu iki dil arasında bile milyonlarca çevirisi yapılmamış içerik olduğunu görmekteyiz. Kaldı ki diğer dillerde yapılan içerikleri de düşündüğümüzde bu sayı daha da artıyor. Bu da demek oluyor ki, sadece Türkçe bilen bir insanın dünyanın en çok tercih edilen sitelerinden birindeki bilgilerin büyük bir çoğunluğuna erişmesi ne yazık ki mümkün değil.
 
@@ -70,9 +70,9 @@ Faydalı olmak dileğiyle:)
 [[2]https://www.similarweb.com/top-websites][top-websites]  
 [[3]https://tr.wikipedia.org/wiki/Vikipedi:Hakk%C4%B1nda][vikipedi]  
 [[4]https://tr.wikipedia.org/wiki/Anasayfa][wiki-anasayfa]  
-[[5]https://en.wikipedia.org/wiki/Wikipedia:Authors_of_Wikipedia][wiki-authors]
+[[5]https://en.wikipedia.org/wiki/Wikipedia:Authors_of_Wikipedia][wiki-authors]  
 [[6]https://en.wikipedia.org/wiki/Main_Page][wiki-main]  
-[[7]https://www.wikipedia.org/][wikipedia]
+[[7]https://www.wikipedia.org/][wikipedia]  
 [[8]https://tr.wikipedia.org/wiki/Bili%C5%9Fim_%C3%87a%C4%9F%C4%B1][bilisim_cagi]
 
 [encyclopedias]: https://www.similarweb.com/top-websites/category/reference-materials/dictionaries-and-encyclopedias/
