@@ -8,7 +8,7 @@ Hepimiz bugüne kadar internet üzerinden birçok araştırma yapmak durumunda k
 
 Yeni karşılaştığımız bir konsepti öğrenmek için internette ilk uğradığımız sayfalardan biri, çoğumuzun da tahmin ettiği gibi Wikipedia.Wikipedia sadece online ansiklopediler arasında en çok tercih edilen sayfa olmakla kalmıyor[[1]][encyclopedias]; aynı zamanda tüm dünyada en çok ziyaret edilen internet siteleri arasında üst sıralarda yerini almış durumda[[2]][top-websites].
 
-Wikipedia'nın en büyük özelliği, herhangi bir konuda yazılan bilgilerin ve makalelerin herkes tarafından erişilebilir ve değiştirilebilir olmasıdır. Bunun hem iyi hem de kötü tarafları var. Doğru bilgi herkes tarafından yanıltılabilir ya da yanlış bilgi herkes tarafından düzeltilebilir. Ancak şunu unutmamak lazım ki aynı platforma yüzlerce hatta binlerce kişi müdahale ediyor. Yani yanlış bilgiyi düzeltmeye istekli olan çok fazla insan var ve bu insanların bir çoğu organize olmuş durumda:) Ayrıca kötü niyetli müdahaleleri kontrol eden bir Vikipedi yönetimi de mevcut. Özellikle vandallıkla mücadele etmek için ciddi şekilde efor harcıyorlar. Bu yüzden site içeriği günden güne iyi yönde ilerliyor dememiz hiç yanlış olmaz.
+Wikipedia'nın en büyük özelliği, herhangi bir konuda yazılan bilgilerin ve makalelerin herkes tarafından erişilebilir ve değiştirilebilir olmasıdır. Bunun hem iyi hem de kötü tarafları var. Doğru bilgi herkes tarafından yanıltılabilir ya da yanlış bilgi herkes tarafından düzeltilebilir. Ancak şunu unutmamak lazım ki aynı platforma yüzlerce hatta binlerce kişi müdahale ediyor. Yani yanlış bilgiyi düzeltmeye istekli olan çok fazla insan var ve bu insanların bir çoğu organize olmuş durumda:). Ayrıca kötü niyetli müdahaleleri kontrol eden bir Vikipedi yönetimi de mevcut. Özellikle vandallıkla mücadele etmek için ciddi şekilde efor harcıyorlar. Bu yüzden site içeriği günden güne iyi yönde ilerliyor dememiz hiç yanlış olmaz.
 
 
 ## Neden Türkçe Vikipedi?
@@ -52,13 +52,13 @@ Bu yazıyı Türkçe yazmamdaki en büyük sebep, özellikle Türkçe içeriğe 
 
 
 ## Kendi İlgi Alanımdan Öneriler
-Zamanında hangi konuları çevirsem diye kendi ilgi duyduğum konularla ilgili küçük bir araştırma yapmıştım. Son kararımı “Siber-Fiziksel Sistemler” başlığı olarak verdim ve İngilizce’den Türkçe’ye bir çeviri yaptım. Tabii ki benim çevirim üzerine birçok gönüllü, düzeltmeler yapmaya devam etmiş. Herkesin eline sağlık:)
+Zamanında hangi konuları çevirsem diye kendi ilgi duyduğum konularla ilgili küçük bir araştırma yapmıştım. Son kararımı “Siber-Fiziksel Sistemler” başlığı olarak verdim ve İngilizce’den Türkçe’ye bir çeviri yaptım. Tabii ki benim çevirim üzerine birçok gönüllü, düzeltmeler yapmaya devam etmiş. Herkesin eline sağlık:).
 
 Aşağıdaki iki içeriğin Türkçe çevirisi yok, dileyen katkı sağlamak isterse diye linkleri bırakıyorum;
 - [https://en.wikipedia.org/wiki/Principle_of_least_privilege][principle_of_least_privilege]  
 - [https://en.wikipedia.org/wiki/Capability-based_security][capability-based_security]
 
-Bunlar gibi çeviri bekleyen binlerce hatta milyonlarca madde olduğunu unutmayalım:)
+Bunlar gibi çeviri bekleyen binlerce hatta milyonlarca madde olduğunu unutmayalım:).
 
 Uzun lafın kısası;
 Toplumsal fayda sağlayan her eylem hem yaşam standardımızı yükseltmek için ileriye dönük bir yatırım hem de insanlığa sunabileceğimiz en büyük katkılardan bir tanesidir. Vikipedi'ye içerik ve özellikle çeviri katkısı sağlamak bunun için harika bir fırsat.
