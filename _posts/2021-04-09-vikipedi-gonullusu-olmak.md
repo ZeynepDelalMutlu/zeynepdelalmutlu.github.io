@@ -12,12 +12,12 @@ Wikipedia'nın en büyük özelliği, herhangi bir konuda yazılan bilgilerin ve
 
 ## Neden Türkçe Vikipedi?
 
-Tüm kullanıcıların sisteme istediği şekilde katkı sağlayabilmesi, birçok farklı dilde bilgi paylaşımını da beraberinde getirmiş. Ancak bir dilde yayınlanan içerik, diğer dillerde de yayınlanmak zorunda değil. O yüzden herkes kendi dilinde içeriğini oluştururken, diğer dili kullanan insanlar bu içerikten mahrum kalıyor. Dilden kaynaklanan bu içerik dengesizliğini önlemek için her dil Wikipedia'ya bağlı kendi alt platformunu oluşturmuş.
+Tüm kullanıcıların sisteme istediği şekilde katkı sağlayabilmesi, birçok farklı dilde bilgi paylaşımını da beraberinde getirmiş. Ancak bir dilde yayınlanan içerik, diğer dillerde de yayınlanmak zorunda değil. O yüzden herkes kendi dilinde içeriğini oluştururken, diğer dilleri kullanan insanlar bu içerikten mahrum kalıyor. Dilden kaynaklanan bu içerik dengesizliğini önlemek için, her dil Wikipedia'ya bağlı kendi alt platformunu oluşturmuş.
 
 Buradan yola çıkarak Wikipedia’ya Türkçe katkıda bulunmak isteyenler için 2003 yılında Türkçe Vikipedi sayfası oluşturulmuş[[3]][vikipedi]. Türkçe Vikipedi sayfasında şimdiye kadar 398.026 adet içeriğin yayınlandığı bilinmektedir[[4]][wiki-anasayfa].
 
 ## Dünyadan ve Türkiye’den İstatistikler
-Wikipedia’nın kendi sayfasında şimdiye kadar sayfada yazarlık yapmış olan 78 milyon civarında kullanıcı olduğu yazmakta. https://en.wikipedia.org/wiki/Wikipedia:Authors_of_Wikipedia Aktif yazarlık yapanların sayısı ise aylık 300 bin civarında. 
+Wikipedia’da şimdiye kadar 78 milyon civarında insan yazarlık yapmıştır[[5]][wiki-authors]Aktif yazarlık yapanların sayısı ise aylık 300 bin civarında. 
 https://en.wikipedia.org/wiki/Main_Page Online bir platforma olabildiğince formal bilgi sağlamayı amaçlayan insan sayısı için oldukça iyi sayılar olduğunu söylememiz yanlış olmaz.
 
 Yazarlar içerisinde sadece konuyla ilgili merakı olan insanların değil, aynı zamanda konuyla doğrudan ilgili olan çok sayıda akademisyen, öğrenci ve profesyonelin de yer aldığı biliniyor.
@@ -57,14 +57,19 @@ Faydalı olmak dileğiyle:)
 
 
 ## References
-[https://en.wikipedia.org/wiki/Brainfuck][1]  
-[https://www.jdoodle.com/execute-brainfuck-online/][2]
+[https://www.similarweb.com/top-websites/category/reference-materials/dictionaries-and-encyclopedias/][1]
+[https://www.similarweb.com/top-websites/][2]  
+[https://tr.wikipedia.org/wiki/Vikipedi:Hakk%C4%B1nda][3]  
+[https://tr.wikipedia.org/wiki/Anasayfa][4]  
+[https://en.wikipedia.org/wiki/Wikipedia:Authors_of_Wikipedia][5]  
 
 [encyclopedias]: https://www.similarweb.com/top-websites/category/reference-materials/dictionaries-and-encyclopedias/
 [top-websites]: https://www.similarweb.com/top-websites/
+[vikipedi]: https://tr.wikipedia.org/wiki/Vikipedi:Hakk%C4%B1nda
+[wiki-anasayfa]: https://tr.wikipedia.org/wiki/Anasayfa
+[wiki-authors]: https://en.wikipedia.org/wiki/Wikipedia:Authors_of_Wikipedia 
+
 
 [1]: https://en.wikipedia.org/wiki/Brainfuck
 [2]: https://www.jdoodle.com/execute-brainfuck-online/
 [online compiler]: <https://www.jdoodle.com/execute-brainfuck-online/>
-[vikipedi]: https://tr.wikipedia.org/wiki/Vikipedi:Hakk%C4%B1nda
-[wiki-anasayfa]: https://tr.wikipedia.org/wiki/Anasayfa
