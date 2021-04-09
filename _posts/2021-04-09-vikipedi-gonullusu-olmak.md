@@ -71,7 +71,7 @@ Bi' çevirsen yeter;)
 Faydalı olmak dileğiyle,
 
 
-## References
+## Referanslar
 [[1]https://www.similarweb.com/top-websites/category/reference-materials/dictionaries-and-encyclopedias][encyclopedias]  
 [[2]https://www.similarweb.com/top-websites][top-websites]  
 [[3]https://tr.wikipedia.org/wiki/Vikipedi:Hakk%C4%B1nda][vikipedi]  
