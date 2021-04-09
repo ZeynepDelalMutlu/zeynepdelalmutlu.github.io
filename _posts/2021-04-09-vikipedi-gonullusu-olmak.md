@@ -28,8 +28,12 @@ Yazarlar içerisinde çok sayıda akademisyen, öğrenci ve profesyonelin de yer
 
 İngilizce Wikipedia dünyada en çok içerik sağlanan platform. Türkçe Vikipedi ile bazı bilgileri kıyaslayacak olursak;
 
-İngilizce Wikipedia sayfasının kayıtlı kullanıcı sayısı 41,308,198, içerik sayısı 6,283,715 ve son 30 günde aktif olarak katkı sağlayan kullanıcı sayısı 142,081.
-Türkçe Vikipedi sayfasının kayıtlı kullanıcı sayısı 1.287.358, içerik sayısı: 398.026 ve son 30 günde aktif olarak katkı sağlayan kullanıcı sayısı 3.401.
+|  | İngilizce Wikipedia | Türkçe Vikipedi |
+| ------ | ------ | ------ |
+| Kayıtlı Kullanıcı Sayısı | 41,308,198 | 1.287.358 |
+| İçerik Sayısı | 6,283,715 | 398.026 |
+| Son 30 günde aktif olarak katkı sağlayan kullanıcı sayısı | 142,081 | 3.401 |
+
 Tüm dillerin verilerini ayrıntılı şekilde incelemek isterseniz Wikipedia’nın ana sayfası üzerinde istediğiniz dildeki Wikipedia sayfasına erişebilirsiniz. https://www.wikipedia.org/
 Burada dikkat etmemiz gereken Türkçe içerik ve İngilizce içerik arasındaki sayısal fark. Sırf bu iki dil arasında bile milyonlarca çevirisi yapılmamış içerik olduğunu görmekteyiz. Kaldı ki diğer dillerde yapılan içerikleri de düşündüğümüzde bu sayı daha da artıyor. Bu da demek oluyor ki, sadece Türkçe bilen bir insanın dünyada en çok tercih edilen popüler bir sitedeki bilgilerin büyük bir çoğunluğuna erişmesi ne yazık ki mümkün değil.
 
