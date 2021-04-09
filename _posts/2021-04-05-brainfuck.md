@@ -5,7 +5,7 @@ layout: post
 
 Brainfuck has one of the smallest compilers among all other software languages. That's why it's known as one of the smallest software languages in the world(for now :). 
 
-- [ - ] is the smallest program which can be written in this language.
+- [ - ] is the smallest program written in this language.
 - ASCII Table is used for the character mapping.
 
 Basically it has 8 program instructions as the following:
