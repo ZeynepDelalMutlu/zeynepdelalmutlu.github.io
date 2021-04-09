@@ -41,11 +41,9 @@ Burada dikkat etmemiz gereken Türkçe içerik ve İngilizce içerik sayıları 
 ## Peki Türkçe Vikipedi İçin Ne Yapabiliriz?
 Dünyanın farklı ülkelerinde farklı dillerde yazılan bilgiler, takdir edersiniz ki o dili bilmediğimiz zaman bize pek de fayda sağlamıyor. İçeriği okuyamıyorsak o bilgi ‘bizim için’ bir bilgi midir, tartışılır. Buradaki dikkat çekmek istediğim nokta kişilerin dil bilmiyor olması değil; günümüz Bilgi Çağı’nda[[8]][bilisim_cagi] bile hala bir insanın bilgiye ulaşmakta yetersiz kalabiliyor olmasıdır.
 
-Bu problemin önüne geçmek için ise gönüllüler uzun zamandır canla başla çalışıyor. Dünyanın birçok yerinden gönüllü insanlar, Wikipedia içeriklerini ücretsiz şekilde çevirerek insanlığa olabildiğince yardım etmeye çalışıyorlar.
+Bu problemin önüne geçmek için ise gönüllüler uzun zamandır canla başla çalışıyor. Dünyanın birçok yerinden gönüllü insanlar, Wikipedia içeriklerini ücretsiz şekilde başka dillere çevirerek insanlığa olabildiğince yardım etmeye çalışıyorlar.
 
-Bu yazıyı Türkçe yazmamdaki en büyük sebep, Türkçe içeriğe katkı sağlayabilecek insanlara ulaşmak istememdir. Eğer Türkçe dışında ikinci bir dil biliyorsanız ve o dili bilmeyen ancak kendini geliştirmek isteyen insanlara yardım etmek istiyorsanız Vikipedi bunun için harika bir fırsat. 
-
-Türkçe dışında bildiğiniz başka bir dilde yazılmış ancak Türkçe çevirisi olmayan yazıları çevirebilirsiniz. Ve bunu tek başınıza yapmak zorunda kesinlikle değilsiniz:) Çeviri yapan bir Vikipedi Çeviri Grubu var. https://tr.wikipedia.org/wiki/Vikipedi:%C3%87eviri_grubu
+Bu yazıyı Türkçe yazmamdaki en büyük sebep, özellikle Türkçe içeriğe katkı sağlayabilecek insanlara ulaşmak istememdir. Vikipedi ya da hangi dilde olursa olsun Wikipedia gibi bir topluluğa yardım etmek, elden geliyorsa yeni içerikler hazırlamak; elden gelmiyorsa çevirilere katkıda bulunmak ya da topluluktaki size uygun görevleri üstlenmek her zaman hem kendiniz hem insanlık için fayda sağlayacak bir eylemdir. Özellikle Türkçe dışında ikinci bir dil biliyorsanız ve o dili bilmeyen ancak kendini geliştirmek isteyen insanlara yardım etmek istiyorsanız Vikipedi bunun için harika bir fırsat. Türkçe çevirisi olmayan yazıları çevirebilirsiniz. Ve bunu tek başınıza yapmak zorunda kesinlikle değilsiniz:). Çeviri yapan bir Vikipedi 'Çeviri Grubu' var[[9]][ceviri_grubu]. 
 Buradan çeviri ihtiyacı duyulan makalelere katkı sağlayabilir, haftalık çevirilere yardım edebilirsiniz. Ayrıca çevirisine ihtiyaç duyduğunuz bir çeviriyi de yine buradan istek yapabilirsiniz. Yaptığınız çeviriyi hemen bitirmek zorunda değilsiniz. Kaydedip çıkabilir, daha sonra devam edebilirsiniz. Zaten tüm yazıyı çevirirken, Vikipedi’nin size sağladığı gelişmiş çeviri aracını da kullanabilirsiniz ki ben çok faydasını gördüm. Kesinlikle tavsiye ediyorum.
 
 O yüzden diyorum ki yabancı dil bilginiz varsa lütfen buna ihtiyacı olabilecek, bir kelime bile olsa bir şey öğrendiğinde 
@@ -73,7 +71,8 @@ Faydalı olmak dileğiyle:)
 [[5]https://en.wikipedia.org/wiki/Wikipedia:Authors_of_Wikipedia][wiki-authors]  
 [[6]https://en.wikipedia.org/wiki/Main_Page][wiki-main]  
 [[7]https://www.wikipedia.org/][wikipedia]  
-[[8]https://tr.wikipedia.org/wiki/Bili%C5%9Fim_%C3%87a%C4%9F%C4%B1][bilisim_cagi]
+[[8]https://tr.wikipedia.org/wiki/Bili%C5%9Fim_%C3%87a%C4%9F%C4%B1][bilisim_cagi]  
+[[9]https://tr.wikipedia.org/wiki/Vikipedi:%C3%87eviri_grubu][ceviri_grubu]  
 
 [encyclopedias]: https://www.similarweb.com/top-websites/category/reference-materials/dictionaries-and-encyclopedias/
 [top-websites]: https://www.similarweb.com/top-websites/
@@ -87,3 +86,4 @@ Faydalı olmak dileğiyle:)
 [wikiproject_physics]: https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Physics
 [wikipedia]: https://www.wikipedia.org/
 [bilisim_cagi]: https://tr.wikipedia.org/wiki/Bili%C5%9Fim_%C3%87a%C4%9F%C4%B1
+[ceviri_grubu]: https://tr.wikipedia.org/wiki/Vikipedi:%C3%87eviri_grubu
