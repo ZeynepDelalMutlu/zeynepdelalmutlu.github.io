@@ -16,7 +16,7 @@ In other words, if we change 1 bit from plaintext, 50% of the ciphertext should 
 
 The text below is the cryptography course project report which indicates "avalanche effect" of AES Algorithm. All project was coded regarding string-bit conversions. There are not any bit manipulations used for "avalanche effect" calculations. Report has the 
 
-To see the project code, please visit: https://github.com/ZeynepDelalMutlu/aes_diffusion
+To see the project code, please visit: [https://github.com/ZeynepDelalMutlu/aes_diffusion][github] 
 
 
 
@@ -25,4 +25,7 @@ To see the project code, please visit: https://github.com/ZeynepDelalMutlu/aes_d
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://zeynepdelalmutlu.github.io/assets/MutluZeynepDelal_Report_ProjectAESConfusionDiffusion.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+
+
+[github]: https://github.com/ZeynepDelalMutlu/aes_diffusion/
 
