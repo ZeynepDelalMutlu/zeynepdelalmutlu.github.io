@@ -1,8 +1,6 @@
 ---
 title:  "Avalanche Effect"
-mathjax: true
 layout: post
-categories: media
 ---
 
 Cryptanalysis is a field that tries to solve(to find plaintext or key) any cryptographic system by attacking it. There are lots of methods used by cryptanalists such as 'ciphertext only attacks', 'known plaintext attacks', 'chosen plaintext attacks', 'man-in-the-middle attacks', 'side channel attacks', 'brute force attacks' etc. To prevent such attacks, cyrptography has important principles. "Avalache Effect" is one of these precautions which is used for especially block ciphers, cryptographic hash functions and other cryptographic algorithms.
