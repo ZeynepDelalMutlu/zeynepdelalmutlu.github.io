@@ -12,7 +12,7 @@ Supposing that, we want to form an opinion about one bit of plaintext or key. To
 
 In other words, if we change 1 bit from plaintext, 50% of the ciphertext should be changed. Why 50%? Because, we do not want the attacker can make a comment about the plaintext based on this percentage. 50% means, they got nothing to guess about plaintext or key itself. Thus, they can not put forward an idea about the original bits of the plaintext or key.
 
-The text below is the cryptography course project report which indicates "avalanche effect" of AES Algorithm. All project was coded regarding string-bit conversions. There are not any bit manipulations used for "avalanche effect" calculations. Report has the 
+The report of Cryptography Course project is below. It indicates "avalanche effect" of AES Algorithm. All project was coded regarding to string-bit conversions. There are not any bit manipulations used for "avalanche effect" calculations. 
 
 To see the project code, please visit: [https://github.com/ZeynepDelalMutlu/aes_diffusion][github] 
 
